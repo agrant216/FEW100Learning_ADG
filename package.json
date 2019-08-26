@@ -1,7 +1,7 @@
 {
   "name": "learning",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a project created for the Front-End Web 100 Class.",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --mode=development",
@@ -9,7 +9,7 @@
     "test": "karma start --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "me",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.2.2",
@@ -37,5 +37,13 @@
   },
   "dependencies": {
     "@types/jasmine": "^3.3.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agrant216/FEW100Learning_ADG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/agrant216/FEW100Learning_ADG/issues"
+  },
+  "homepage": "https://github.com/agrant216/FEW100Learning_ADG#readme"
 }
